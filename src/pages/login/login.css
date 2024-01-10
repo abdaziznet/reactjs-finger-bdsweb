@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .login-container {
+    width: 350px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10%;
+  }
+  
+  .login-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size: medium;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .my-checkbox {
+    display: inline-flex;
+    align-items: normal;
+    position: absolute;
+    left: auto;
+  }
+  
+  .my-checkbox input {
+    margin-inline: 5px;
+  }
+  
+  .my-login {
+    margin-top: 30px;
+  }
+  
+  .my-info{
+    padding-top: 10px;
+  }
